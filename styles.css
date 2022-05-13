@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+
+body {
+    background-color: lightblue;
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Yuji Syuku', serif;
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.gameover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+.skimask {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+
+.robber1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.jewelsimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.jewelsimg2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.reddiamond {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.jailcell {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.bankimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.money {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+
+button {
+    font-family: 'Yuji Syuku', serif;
+    font-weight: bold;
+}
